@@ -7,6 +7,6 @@ Below is a link to the google slides presentation made to teach the content for 
 workshop is typicall to spend the first half of our time teaching the theory and a little bit of the math behind the 
 deep learning topic for that day, then to spend the rest of the time learning by training your own network in the example 
 problem that we provide through the colab notebook. For most of the other workshops I worked as a TA, helping people with the 
-code for the colab notebook, which uses PyTorch
+code for the colab notebook, which uses PyTorch, but I had the opportunity to prepare and teach for the RNN workshop. 
 
 Here is a link to the presentation: https://docs.google.com/presentation/d/1H8VbBEDUO4S8MgOleBw7SOJFiT-zi5wlwKMc6uFSrAs/edit?usp=sharing
